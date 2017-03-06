@@ -1,0 +1,2 @@
+INFO	?	main	2017-01-23T02:24:39.872Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2017-01-23T02:24:40.248Z	org.javacs.JavaLanguageServer#doLint	Lint [c:\Users\sca25\Dropbox\Udacity\AndroidBasics\Miwok\app\src\main\java\com\example\android\miwok\Word.java]
